@@ -22,7 +22,12 @@ Olá, sou Estevão, tenho 26 anos, enfrento desafio constante que a tecnologia o
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstevaoCa&repo=Formulario_Simples)](https://github.com/EstevaoCa/Formulario_Simples)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstevaoCa&repo=Site_de_Estilo_de_vida)](https://github.com/EstevaoCa/Site_de_Estilo_de_vida)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstevaoCa&repo=Curso_Ebac_Frontend)](https://github.com/EstevaoCa/Curso_Ebac_Frontend)
+
+
 
 ### Principais Linguagens
 
