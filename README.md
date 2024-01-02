@@ -25,7 +25,7 @@ Olá, sou Estevão, tenho 26 anos, enfrento desafio constante que a tecnologia o
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstevaoCa&repo=Site_de_Estilo_de_vida)](https://github.com/EstevaoCa/Site_de_Estilo_de_vida)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstevaoCa&repo=Curso_Ebac_Frontend)](https://github.com/EstevaoCa/Curso_Ebac_Frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstevaoCa&repo=Ebac_Saques_exercicios_Js)](https://github.com/EstevaoCa/Ebac_Saques_exercicios_Js)
 
 
 
