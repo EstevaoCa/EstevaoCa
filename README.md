@@ -21,7 +21,7 @@ Olá, sou Estevão, tenho 26 anos, enfrento desafio constante que a tecnologia o
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstevaoCa&repo=Formulario_Simples)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstevaoCa&repo=Formulario_Simples)](https://github.com/EstevaoCa/Formulario_Simples)
 
 ### Principais Linguagens
 
