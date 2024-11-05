@@ -17,7 +17,7 @@ Olá, sou Estevão, tenho 26 anos, enfrento desafio constante que a tecnologia o
 ### Detalhes
 
 ![status do GitHub](https://github-readme-stats.vercel.app/api?username=EstevaoCa&show_icons=true&theme=radical)
-![Perfile](https://github-readme-stats.vercel.app/api/top-langs/?username=EstevaoCa&layout=compact&langs_count=7&theme=radical)
+![Perfile](https://github-readme-stats.vercel.app/api/top-langs/?username=EstevaoCa&show_icons=true_count=7&theme=radical)
 
 ### Projetos
 
