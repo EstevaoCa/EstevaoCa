@@ -16,8 +16,8 @@ Olá, sou Estevão, tenho 26 anos, enfrento desafio constante que a tecnologia o
 
 ### Detalhes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstevaoCa&show_icons=true&theme=radical)
-![Perfile] (https://github-readme-stats.vercel.app/api/top-langs/?username=EstevaoCa&layout=compact&langs_count=7&theme=dracula)
+![status do GitHub](https://github-readme-stats.vercel.app/api?username=EstevaoCa&show_icons=true&theme=radical)
+![Perfile](https://github-readme-stats.vercel.app/api/top-langs/?username=EstevaoCa&layout=compact&langs_count=7&theme=dracula)
 
 ### Projetos
 
